@@ -6,7 +6,9 @@
 
 - For continuous compilation of your changes type `~fastOptJS`.
 
-- Then open the following URL within your favorite browser: [http://localhost:12345/target/scala-2.11/classes/index-dev.html](http://localhost:12345/target/scala-2.11/classes/index-dev.html)
+- Open the `target/scala-2.11/classes/index-dev.html` in the browser of your choice.
+
+- Open browser console.
 
 ## Production
 
@@ -21,3 +23,5 @@ target/scala-2.11/
 ```
 
 - Finally open the `index.html` in the browser of your choice.
+
+- Open browser console.
